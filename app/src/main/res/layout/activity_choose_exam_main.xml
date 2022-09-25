@@ -11,11 +11,12 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:shrinkColumns="*"
-        android:stretchColumns="*" >
+        android:stretchColumns="*">
+
 
         <TableRow
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="60dp">
 
             <Button
                 android:id="@+id/LvYou_exam_button"
@@ -50,11 +51,13 @@
             <Button
                 android:id="@+id/MaoGai_exam_button"
                 android:text="@string/MaoGaiQuestion"
-                android:width="1dip"/>
+                android:width="1dip" />
+
             <Button
                 android:id="@+id/NetworkSecurity_exam_button"
                 android:width="1dip"
-                android:text="@string/NetworkSecurity"/>
+
+                android:text="@string/NetworkSecurity" />
         </TableRow>
 
         <TableRow

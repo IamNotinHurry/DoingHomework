@@ -3,6 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_choose_exam_main.xml" value="0.264" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_collection_init.xml" value="0.12158054711246201" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_computer_question_main.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_exam.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_exammain.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_handle.xml" value="0.264" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_history_main.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_maogai_question_main.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_mayuan_question_main.xml" value="0.253125" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_network_security_main.xml" value="0.12310030395136778" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/activity_thinking_virtue_main.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/fragment_exam.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/fragment_mine.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/fragment_practise.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/init.xml" value="0.25" />
+        <entry key="..\:/AndroidCode/DoHomework4/app/src/main/res/layout/practises_collection.xml" value="0.25" />
         <entry key="..\:/AndroidCode/QuestionDatabase_Test/app/src/main/res/layout/activity_exammain.xml" value="0.34556159420289856" />
         <entry key="..\:/AndroidCode/QuestionDatabase_Test/app/src/main/res/layout/activity_maogai_question_main.xml" value="0.3378623188405797" />
         <entry key="..\:/AndroidCode/QuestionDatabase_Test/app/src/main/res/layout/activity_splash.xml" value="0.3378623188405797" />

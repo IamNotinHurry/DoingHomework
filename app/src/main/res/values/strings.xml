@@ -32,19 +32,19 @@
     <string name="LookAnswer">查看答案</string>
 
     <!--计算机等级考试题库-->
-    <string name="ComputerQuestion">计算机等级二级题库</string>
-    <string name="Computer_Question_C">计算机等级考试二级C语言程序设计</string>
-    <string name="Computer_Question_Java">计算机等级考试二级java语言程序设计</string>
+    <string name="ComputerQuestion">计算机二级题库</string>
+    <string name="Computer_Question_C">计算机等级考试二级java语言程序设计</string>
+    <string name="Computer_Question_Java">计算机等级考试二级MySQL数据库程序设计</string>
     <string name="Computer_Question_Python">计算机等级考试二级Python语言程序设计</string>
-    <string name="Computer_Question_MS_Office">计算机等级考试二级MS Office高级应用</string>
-    <string name="Computer_Question_VB">计算机等级考试二级VB语言程序设计</string>
+    <string name="Computer_Question_MS_Office">计算机等级考试二级C++语言程序设计</string>
+    <string name="Computer_Question_VB">计算机等级考试二级Web程序设计</string>
     <string name="Computer_Question_Access">计算机等级考试二级Access数据库程序设计</string>
-    <string name="Computer_Question_C__">计算机等级考试二级C++语言程序设计</string>
-    <string name="Computer_Question_MySQL">计算机等级考试二级MySQL数据库程序设计</string>
-    <string name="Computer_Question_Web">计算机等级考试二级Web程序设计</string>
+    <string name="Computer_Question_C__">计算机等级考试二级MS Office高级应用</string>
+    <string name="Computer_Question_MySQL">计算机等级考试二级C语言程序设计</string>
+    <string name="Computer_Question_Web">计算机等级考试二级VB语言程序设计</string>
 
     <!--马原题库-->
-    <string name="MaYuanQuestion">马原题库</string>
+    <string name="MaYuanQuestion">马克思主义基本原理概论</string>
     <string name="MaYuanChapterFirst">第一章 世界的物质性及其发展规律</string>
     <string name="MaYuanChapterSecond">第二章 实践与认识及其发展规律</string>
     <string name="MaYuanChapterThird">第三章 人类社会及其发展规律</string>
@@ -57,11 +57,11 @@
 
 
     <!--旅游题库-->
-    <string name="LvYouQuestion">旅游题库</string>
+    <string name="LvYouQuestion">旅游</string>
 
 
     <!--毛概题库-->
-    <string name="MaoGaiQuestion">毛概题库</string>
+    <string name="MaoGaiQuestion">毛概</string>
     <string name="MaoGaiChapterFirst">第一章</string>
     <string name="MaoGaiChapterSecond">第二章</string>
     <string name="MaoGaiChapterThird">第三章</string>
@@ -73,11 +73,11 @@
 
 
     <!--现代史-->
-    <string name="HistoryQuestion">现代史题库</string>
+    <string name="HistoryQuestion">中国近现代史纲要</string>
 
 
     <!--思政-->
-    <string name="ThinkingVirtue">思政题库</string>
+    <string name="ThinkingVirtue">思想道德修养与法律基础</string>
     <string name="ThinkingVirtueChapterFirst">第一章</string>
     <string name="ThinkingVirtueChapterSecond">第二章</string>
     <string name="ThinkingVirtueChapterThird">第三章</string>
