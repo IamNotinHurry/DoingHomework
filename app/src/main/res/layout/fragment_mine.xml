@@ -12,7 +12,7 @@
         android:layout_height="100dp"
         android:layout_alignParentLeft="true"
         android:layout_centerInParent="true"
-        android:src="@drawable/excel"/>
+        android:src="@drawable/excel" />
 
     <ImageButton
         android:id="@+id/database_imagebutton"

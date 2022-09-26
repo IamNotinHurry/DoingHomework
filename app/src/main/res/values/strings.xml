@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">QuestionDatabase</string>
+    <string name="app_name">刷题</string>
 
     <!--授权-->
     <string name="common_permission_hint">授权提示</string>

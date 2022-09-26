@@ -12,7 +12,7 @@
             android:id="@+id/LuYou_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="7dp"
+            android:layout_marginTop="15dp"
             android:layout_alignParentTop="true"
             android:textColor="@color/black"
 
@@ -22,7 +22,7 @@
             android:id="@+id/History_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="7dp"
+            android:layout_marginTop="15dp"
             android:layout_below="@+id/LuYou_button"
             android:text="@string/HistoryQuestion"/>
 
@@ -30,7 +30,7 @@
             android:id="@+id/ThinkingVirtue_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="7dp"
+            android:layout_marginTop="15dp"
             android:layout_below="@+id/History_button"
             android:text="@string/ThinkingVirtue" />
 
@@ -38,7 +38,7 @@
             android:id="@+id/MaoGai_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="7dp"
+            android:layout_marginTop="15dp"
             android:layout_below="@+id/ThinkingVirtue_button"
             android:text="@string/MaoGaiQuestion"/>
 
@@ -46,7 +46,7 @@
             android:id="@+id/NetworkSecurity_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="7dp"
+            android:layout_marginTop="15dp"
             android:layout_below="@+id/MaoGai_button"
 
             android:text="@string/NetworkSecurity"/>
@@ -55,7 +55,7 @@
             android:id="@+id/MaYuan_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="7dp"
+            android:layout_marginTop="15dp"
             android:layout_below="@+id/NetworkSecurity_button"
             android:text="@string/MaYuanQuestion"/>
 
@@ -63,7 +63,7 @@
             android:id="@+id/Computer_second_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="7dp"
+            android:layout_marginTop="15dp"
             android:layout_below="@+id/MaYuan_button"
             android:text="@string/ComputerQuestion"/>
 
